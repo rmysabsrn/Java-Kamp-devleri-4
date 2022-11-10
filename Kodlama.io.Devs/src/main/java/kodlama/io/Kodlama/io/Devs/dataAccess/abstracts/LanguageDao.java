@@ -1,0 +1,4 @@
+package kodlama.io.Kodlama.io.Devs.dataAccess.abstracts;
+
+public interface LanguageDao {
+}

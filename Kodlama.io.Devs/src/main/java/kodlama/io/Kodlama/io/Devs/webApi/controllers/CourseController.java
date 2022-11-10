@@ -1,0 +1,4 @@
+package kodlama.io.Kodlama.io.Devs.webApi.controllers;
+
+public class CourseController {
+}
