@@ -7,7 +7,7 @@ import java.util.List;
 public interface LanguageService {
     List<Language> getAll();
     Language getById(int id) throws Exception;
-    void create(int id);
-    void update(int id,String name);
-    void delete();
+    void create(Language language);
+    void update(Language language);
+    void delete(int id);
 }
